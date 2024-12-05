@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Введите заголовок" />
+
+    <EditText
+        android:id="@+id/editTextMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Введите текст напоминания" />
+
+    <Button
+        android:id="@+id/buttonSetDate"
+        android:layout_width="371dp"
+        android:layout_height="wrap_content"
+        android:text="Выбрать дату" />
+
+    <Button
+        android:id="@+id/buttonSetTime"
+        android:layout_width="371dp"
+        android:layout_height="wrap_content"
+        android:text="Выбрать время" />
+
+    <Button
+        android:id="@+id/buttonSaveReminder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:text="Сохранить напоминание"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/buttonViewReminders"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Просмотр всех напоминаний" />
+
+</LinearLayout>

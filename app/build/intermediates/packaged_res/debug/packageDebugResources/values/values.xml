@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Labaratornaya6Moblki</string>
+    <style name="Base.Theme.Labaratornaya6Moblki" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Labaratornaya6Moblki" parent="Base.Theme.Labaratornaya6Moblki"/>
+</resources>

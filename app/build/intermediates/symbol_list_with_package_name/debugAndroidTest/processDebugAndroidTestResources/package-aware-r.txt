@@ -1,0 +1,3 @@
+com.example.labaratornaya6moblki.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

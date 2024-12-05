@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable button_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonSaveReminder
+id buttonSetDate
+id buttonSetTime
+id buttonViewReminders
+id editTextMessage
+id editTextTitle
+id listViewReminders
+id textViewMessage
+id textViewTitle
+layout activity_main
+layout activity_reminder_detail
+layout activity_reminder_list
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Labaratornaya6Moblki
+style Theme.Labaratornaya6Moblki
+xml backup_rules
+xml data_extraction_rules
